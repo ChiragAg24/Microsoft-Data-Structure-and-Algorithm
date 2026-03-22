@@ -1,0 +1,14 @@
+C:\My Files\Codes\BinaryUserSearch\bin\Debug\net10.0\BinaryUserSearch.exe
+C:\My Files\Codes\BinaryUserSearch\bin\Debug\net10.0\BinaryUserSearch.deps.json
+C:\My Files\Codes\BinaryUserSearch\bin\Debug\net10.0\BinaryUserSearch.runtimeconfig.json
+C:\My Files\Codes\BinaryUserSearch\bin\Debug\net10.0\BinaryUserSearch.dll
+C:\My Files\Codes\BinaryUserSearch\bin\Debug\net10.0\BinaryUserSearch.pdb
+C:\My Files\Codes\BinaryUserSearch\obj\Debug\net10.0\BinaryUserSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\My Files\Codes\BinaryUserSearch\obj\Debug\net10.0\BinaryUserSearch.AssemblyInfoInputs.cache
+C:\My Files\Codes\BinaryUserSearch\obj\Debug\net10.0\BinaryUserSearch.AssemblyInfo.cs
+C:\My Files\Codes\BinaryUserSearch\obj\Debug\net10.0\BinaryUserSearch.csproj.CoreCompileInputs.cache
+C:\My Files\Codes\BinaryUserSearch\obj\Debug\net10.0\BinaryUserSearch.dll
+C:\My Files\Codes\BinaryUserSearch\obj\Debug\net10.0\refint\BinaryUserSearch.dll
+C:\My Files\Codes\BinaryUserSearch\obj\Debug\net10.0\BinaryUserSearch.pdb
+C:\My Files\Codes\BinaryUserSearch\obj\Debug\net10.0\BinaryUserSearch.genruntimeconfig.cache
+C:\My Files\Codes\BinaryUserSearch\obj\Debug\net10.0\ref\BinaryUserSearch.dll
