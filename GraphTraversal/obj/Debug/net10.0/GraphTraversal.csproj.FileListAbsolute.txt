@@ -1,0 +1,14 @@
+C:\My Files\Codes\Data Structure\GraphTraversal\obj\Debug\net10.0\GraphTraversal.GeneratedMSBuildEditorConfig.editorconfig
+C:\My Files\Codes\Data Structure\GraphTraversal\obj\Debug\net10.0\GraphTraversal.AssemblyInfoInputs.cache
+C:\My Files\Codes\Data Structure\GraphTraversal\obj\Debug\net10.0\GraphTraversal.AssemblyInfo.cs
+C:\My Files\Codes\Data Structure\GraphTraversal\obj\Debug\net10.0\GraphTraversal.csproj.CoreCompileInputs.cache
+C:\My Files\Codes\Data Structure\GraphTraversal\bin\Debug\net10.0\GraphTraversal.exe
+C:\My Files\Codes\Data Structure\GraphTraversal\bin\Debug\net10.0\GraphTraversal.deps.json
+C:\My Files\Codes\Data Structure\GraphTraversal\bin\Debug\net10.0\GraphTraversal.runtimeconfig.json
+C:\My Files\Codes\Data Structure\GraphTraversal\bin\Debug\net10.0\GraphTraversal.dll
+C:\My Files\Codes\Data Structure\GraphTraversal\bin\Debug\net10.0\GraphTraversal.pdb
+C:\My Files\Codes\Data Structure\GraphTraversal\obj\Debug\net10.0\GraphTraversal.dll
+C:\My Files\Codes\Data Structure\GraphTraversal\obj\Debug\net10.0\refint\GraphTraversal.dll
+C:\My Files\Codes\Data Structure\GraphTraversal\obj\Debug\net10.0\GraphTraversal.pdb
+C:\My Files\Codes\Data Structure\GraphTraversal\obj\Debug\net10.0\GraphTraversal.genruntimeconfig.cache
+C:\My Files\Codes\Data Structure\GraphTraversal\obj\Debug\net10.0\ref\GraphTraversal.dll
