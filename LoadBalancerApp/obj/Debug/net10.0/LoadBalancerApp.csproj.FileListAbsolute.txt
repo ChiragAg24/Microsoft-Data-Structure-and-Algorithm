@@ -1,0 +1,14 @@
+C:\My Files\Codes\Data Structure\LoadBalancerApp\obj\Debug\net10.0\LoadBalancerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\My Files\Codes\Data Structure\LoadBalancerApp\obj\Debug\net10.0\LoadBalancerApp.AssemblyInfoInputs.cache
+C:\My Files\Codes\Data Structure\LoadBalancerApp\obj\Debug\net10.0\LoadBalancerApp.AssemblyInfo.cs
+C:\My Files\Codes\Data Structure\LoadBalancerApp\obj\Debug\net10.0\LoadBalancerApp.csproj.CoreCompileInputs.cache
+C:\My Files\Codes\Data Structure\LoadBalancerApp\bin\Debug\net10.0\LoadBalancerApp.exe
+C:\My Files\Codes\Data Structure\LoadBalancerApp\bin\Debug\net10.0\LoadBalancerApp.deps.json
+C:\My Files\Codes\Data Structure\LoadBalancerApp\bin\Debug\net10.0\LoadBalancerApp.runtimeconfig.json
+C:\My Files\Codes\Data Structure\LoadBalancerApp\bin\Debug\net10.0\LoadBalancerApp.dll
+C:\My Files\Codes\Data Structure\LoadBalancerApp\bin\Debug\net10.0\LoadBalancerApp.pdb
+C:\My Files\Codes\Data Structure\LoadBalancerApp\obj\Debug\net10.0\LoadBalancerApp.dll
+C:\My Files\Codes\Data Structure\LoadBalancerApp\obj\Debug\net10.0\refint\LoadBalancerApp.dll
+C:\My Files\Codes\Data Structure\LoadBalancerApp\obj\Debug\net10.0\LoadBalancerApp.pdb
+C:\My Files\Codes\Data Structure\LoadBalancerApp\obj\Debug\net10.0\LoadBalancerApp.genruntimeconfig.cache
+C:\My Files\Codes\Data Structure\LoadBalancerApp\obj\Debug\net10.0\ref\LoadBalancerApp.dll
