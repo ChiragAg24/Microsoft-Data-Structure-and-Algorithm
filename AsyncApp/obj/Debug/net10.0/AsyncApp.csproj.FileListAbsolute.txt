@@ -1,0 +1,14 @@
+C:\My Files\Codes\Data Structure\AsyncApp\bin\Debug\net10.0\AsyncApp.exe
+C:\My Files\Codes\Data Structure\AsyncApp\bin\Debug\net10.0\AsyncApp.deps.json
+C:\My Files\Codes\Data Structure\AsyncApp\bin\Debug\net10.0\AsyncApp.runtimeconfig.json
+C:\My Files\Codes\Data Structure\AsyncApp\bin\Debug\net10.0\AsyncApp.dll
+C:\My Files\Codes\Data Structure\AsyncApp\bin\Debug\net10.0\AsyncApp.pdb
+C:\My Files\Codes\Data Structure\AsyncApp\obj\Debug\net10.0\AsyncApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\My Files\Codes\Data Structure\AsyncApp\obj\Debug\net10.0\AsyncApp.AssemblyInfoInputs.cache
+C:\My Files\Codes\Data Structure\AsyncApp\obj\Debug\net10.0\AsyncApp.AssemblyInfo.cs
+C:\My Files\Codes\Data Structure\AsyncApp\obj\Debug\net10.0\AsyncApp.csproj.CoreCompileInputs.cache
+C:\My Files\Codes\Data Structure\AsyncApp\obj\Debug\net10.0\AsyncApp.dll
+C:\My Files\Codes\Data Structure\AsyncApp\obj\Debug\net10.0\refint\AsyncApp.dll
+C:\My Files\Codes\Data Structure\AsyncApp\obj\Debug\net10.0\AsyncApp.pdb
+C:\My Files\Codes\Data Structure\AsyncApp\obj\Debug\net10.0\AsyncApp.genruntimeconfig.cache
+C:\My Files\Codes\Data Structure\AsyncApp\obj\Debug\net10.0\ref\AsyncApp.dll
