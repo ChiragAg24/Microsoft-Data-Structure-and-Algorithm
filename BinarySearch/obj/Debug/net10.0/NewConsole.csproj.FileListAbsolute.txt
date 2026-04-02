@@ -1,0 +1,14 @@
+C:\My Files\Codes\NewConsole\bin\Debug\net10.0\NewConsole.exe
+C:\My Files\Codes\NewConsole\bin\Debug\net10.0\NewConsole.deps.json
+C:\My Files\Codes\NewConsole\bin\Debug\net10.0\NewConsole.runtimeconfig.json
+C:\My Files\Codes\NewConsole\bin\Debug\net10.0\NewConsole.dll
+C:\My Files\Codes\NewConsole\bin\Debug\net10.0\NewConsole.pdb
+C:\My Files\Codes\NewConsole\obj\Debug\net10.0\NewConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\My Files\Codes\NewConsole\obj\Debug\net10.0\NewConsole.AssemblyInfoInputs.cache
+C:\My Files\Codes\NewConsole\obj\Debug\net10.0\NewConsole.AssemblyInfo.cs
+C:\My Files\Codes\NewConsole\obj\Debug\net10.0\NewConsole.csproj.CoreCompileInputs.cache
+C:\My Files\Codes\NewConsole\obj\Debug\net10.0\NewConsole.dll
+C:\My Files\Codes\NewConsole\obj\Debug\net10.0\refint\NewConsole.dll
+C:\My Files\Codes\NewConsole\obj\Debug\net10.0\NewConsole.pdb
+C:\My Files\Codes\NewConsole\obj\Debug\net10.0\NewConsole.genruntimeconfig.cache
+C:\My Files\Codes\NewConsole\obj\Debug\net10.0\ref\NewConsole.dll
