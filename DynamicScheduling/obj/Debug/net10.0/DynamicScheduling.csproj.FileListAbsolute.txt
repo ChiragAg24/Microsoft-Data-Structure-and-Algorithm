@@ -1,0 +1,14 @@
+C:\My Files\Codes\Data Structure\DynamicScheduling\obj\Debug\net10.0\DynamicScheduling.GeneratedMSBuildEditorConfig.editorconfig
+C:\My Files\Codes\Data Structure\DynamicScheduling\obj\Debug\net10.0\DynamicScheduling.AssemblyInfoInputs.cache
+C:\My Files\Codes\Data Structure\DynamicScheduling\obj\Debug\net10.0\DynamicScheduling.AssemblyInfo.cs
+C:\My Files\Codes\Data Structure\DynamicScheduling\obj\Debug\net10.0\DynamicScheduling.csproj.CoreCompileInputs.cache
+C:\My Files\Codes\Data Structure\DynamicScheduling\bin\Debug\net10.0\DynamicScheduling.exe
+C:\My Files\Codes\Data Structure\DynamicScheduling\bin\Debug\net10.0\DynamicScheduling.deps.json
+C:\My Files\Codes\Data Structure\DynamicScheduling\bin\Debug\net10.0\DynamicScheduling.runtimeconfig.json
+C:\My Files\Codes\Data Structure\DynamicScheduling\bin\Debug\net10.0\DynamicScheduling.dll
+C:\My Files\Codes\Data Structure\DynamicScheduling\bin\Debug\net10.0\DynamicScheduling.pdb
+C:\My Files\Codes\Data Structure\DynamicScheduling\obj\Debug\net10.0\DynamicScheduling.dll
+C:\My Files\Codes\Data Structure\DynamicScheduling\obj\Debug\net10.0\refint\DynamicScheduling.dll
+C:\My Files\Codes\Data Structure\DynamicScheduling\obj\Debug\net10.0\DynamicScheduling.pdb
+C:\My Files\Codes\Data Structure\DynamicScheduling\obj\Debug\net10.0\DynamicScheduling.genruntimeconfig.cache
+C:\My Files\Codes\Data Structure\DynamicScheduling\obj\Debug\net10.0\ref\DynamicScheduling.dll
