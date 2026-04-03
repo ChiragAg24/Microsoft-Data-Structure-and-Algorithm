@@ -1,0 +1,14 @@
+C:\My Files\Codes\Data Structure\PerformanceOptimization\bin\Debug\net10.0\PerformanceOptimization.exe
+C:\My Files\Codes\Data Structure\PerformanceOptimization\bin\Debug\net10.0\PerformanceOptimization.deps.json
+C:\My Files\Codes\Data Structure\PerformanceOptimization\bin\Debug\net10.0\PerformanceOptimization.runtimeconfig.json
+C:\My Files\Codes\Data Structure\PerformanceOptimization\bin\Debug\net10.0\PerformanceOptimization.dll
+C:\My Files\Codes\Data Structure\PerformanceOptimization\bin\Debug\net10.0\PerformanceOptimization.pdb
+C:\My Files\Codes\Data Structure\PerformanceOptimization\obj\Debug\net10.0\PerformanceOptimization.GeneratedMSBuildEditorConfig.editorconfig
+C:\My Files\Codes\Data Structure\PerformanceOptimization\obj\Debug\net10.0\PerformanceOptimization.AssemblyInfoInputs.cache
+C:\My Files\Codes\Data Structure\PerformanceOptimization\obj\Debug\net10.0\PerformanceOptimization.AssemblyInfo.cs
+C:\My Files\Codes\Data Structure\PerformanceOptimization\obj\Debug\net10.0\PerformanceOptimization.csproj.CoreCompileInputs.cache
+C:\My Files\Codes\Data Structure\PerformanceOptimization\obj\Debug\net10.0\PerformanceOptimization.dll
+C:\My Files\Codes\Data Structure\PerformanceOptimization\obj\Debug\net10.0\refint\PerformanceOptimization.dll
+C:\My Files\Codes\Data Structure\PerformanceOptimization\obj\Debug\net10.0\PerformanceOptimization.pdb
+C:\My Files\Codes\Data Structure\PerformanceOptimization\obj\Debug\net10.0\PerformanceOptimization.genruntimeconfig.cache
+C:\My Files\Codes\Data Structure\PerformanceOptimization\obj\Debug\net10.0\ref\PerformanceOptimization.dll
